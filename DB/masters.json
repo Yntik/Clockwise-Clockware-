@@ -1,0 +1,22 @@
+{
+  "masters": [
+    {
+      "name":"Andrew",
+      "surname":"Lotisk",
+      "city":"Kiev",
+      "status":"2"
+    },
+    {
+      "name":"Victor",
+      "surname":"Blabla",
+      "city":"Lviv",
+      "status":"3"
+    },
+    {
+      "name":"Armin",
+      "surname":"Buuren",
+      "city":"denboshe",
+      "status":"1"
+    }
+  ]
+}
